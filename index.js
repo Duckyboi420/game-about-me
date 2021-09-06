@@ -29,10 +29,10 @@ var questions = [
 ];
 
 var highScores = [
-	{
-		name: 'Raghav',
-		score: 3
-	},
+  {
+    name: 'Baani',
+    score: 3
+  },
 	{
 		name: 'Rishu',
 		score: 2
