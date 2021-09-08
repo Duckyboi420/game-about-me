@@ -1,2 +1,2 @@
-# game-about-me
+# Game about me
 How well do you know me?
